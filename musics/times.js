@@ -1,3 +1,6 @@
+const times = (prefix) => {
+	return `
+
 cam = Atlético Mg
 cap = Atlético Pr
 bot = Botafogo
@@ -14,3 +17,8 @@ pal = Palmeiras
 san = Santos
 spf = São Paulo
 scr = Sport Club Recife
+
+`
+}
+
+exports.times = times
