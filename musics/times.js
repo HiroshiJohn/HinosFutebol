@@ -1,6 +1,8 @@
 const times = (prefix) => {
 	return `
 
+Siglas dos times:
+
 cam = Atlético Mg
 cap = Atlético Pr
 bot = Botafogo
