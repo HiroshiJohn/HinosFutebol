@@ -1,0 +1,26 @@
+{
+  "name": "hinosfutebol",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HiroshiJohn/HinosFutebol.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "john",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HiroshiJohn/HinosFutebol/issues"
+  },
+  "homepage": "https://github.com/HiroshiJohn/HinosFutebol#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
